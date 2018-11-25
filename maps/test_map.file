@@ -1,0 +1,18 @@
+info {
+    height = 13
+}
+map {
+    BBBBBBBBBBBBB
+    Bb         bB
+    B  4     4  B
+    B           B
+    B  p     p  B
+    B           B
+    B     ~     B
+    B           B
+    B  p     p  B
+    B           B
+    B  4     4  B
+    Bb         bB
+    BBBBBBBBBBBBB
+}
